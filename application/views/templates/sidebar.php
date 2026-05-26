@@ -32,6 +32,20 @@
     </a>
 </li>
 
+<li class="nav-item">
+    <a class="nav-link" href="<?= base_url('peminjaman') ?>">
+        <i class="fas fa-users"></i>
+        <span>peminjaman</span>
+    </a>
+</li>
+
+<li class="nav-item">
+    <a class="nav-link" href="<?= base_url('cetak_pinjam') ?>">
+        <i class="fas fa-users"></i>
+        <span>Cetak Peminjaman</span>
+    </a>
+</li>
+
 <hr class="sidebar-divider d-none d-md-block">
 
 </ul>
